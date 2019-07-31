@@ -1,0 +1,7 @@
+Release/obj.target/binding/src/srqc-nodejs.o: ../src/srqc-nodejs.cc \
+  /Users/liuyue05/Library/Caches/node-gyp/11.2.0/include/node/node.h \
+  /Users/liuyue05/Library/Caches/node-gyp/11.2.0/include/node/v8.h \
+  /Users/liuyue05/Library/Caches/node-gyp/11.2.0/include/node/v8-version.h \
+  /Users/liuyue05/Library/Caches/node-gyp/11.2.0/include/node/v8config.h \
+  /Users/liuyue05/Library/Caches/node-gyp/11.2.0/include/node/v8-platform.h \
+  /Users/liuyue05/Library/Caches/node-gyp/11.2.0/include/node/node_version.h
